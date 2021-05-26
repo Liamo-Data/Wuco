@@ -1,0 +1,2 @@
+(self.webpackChunkwuco=self.webpackChunkwuco||[]).push([[354],{1866:function(e,t,u){"use strict";u.r(t);var n=u(7294),c=u(8666),l=u(6143);t.default=function(){return n.createElement(c.Z,null,n.createElement(l.Z,{title:"About us"}))}}}]);
+//# sourceMappingURL=component---src-pages-about-jsx-418bae1887d5a63989ea.js.map
