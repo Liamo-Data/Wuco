@@ -2,7 +2,7 @@ module.exports = {
   flags: {
     DEV_SSR: false,
   },
-  pathPrefix: `/wuco`,
+  pathPrefix: `/Wuco`,
   siteMetadata: {
     title: `WUCO`,
     description: `WUCO Official Website.`,
